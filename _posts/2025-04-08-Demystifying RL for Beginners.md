@@ -2,7 +2,6 @@
 title: "Demystifying RL for Beginners"
 date: 2025-04-08
 layout: single
-author_profile: false
 read_time: true
 tags: [RL, Deep Learning, Notes]
 css: "/assets/css/custom.css"
