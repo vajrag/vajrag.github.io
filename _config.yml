@@ -1,4 +1,6 @@
 title: Vajra Ganesh
 description: AI Researcher at Ola Krutrim
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
