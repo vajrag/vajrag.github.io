@@ -1,6 +1,8 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 
@@ -9,9 +11,15 @@ I am an AI Researcher at [Ola Krutrim](https://www.olakrutrim.com/). I completed
 Alongside my research, I enjoy mentoring students at Skillslash, guiding them through the complexities of AI and Machine Learning while fostering their growth through hands-on learning and real-world applications.
 
 ## Education 
+- B.E. in Industrial Engineering and Management, BMSCE
+- M.Sc. in Autonomous Systems, H-BRS Germany
 
 
 ## Experience
 
+- Research Assistant @ Fraunhofer IPA
+- AI Researcher @ Ola Krutrim
 
 ## Skills 
+- Python, PyTorch, Tensorflow, ROS2
+- Reinforcement Learning, Deep Learning, Machine Learning
