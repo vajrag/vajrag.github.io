@@ -17,7 +17,7 @@ author_profile: false
 
 .hero-text {
   flex: 1 1 400px;
-  max-width: 720px; /* Increased from 600px */
+  max-width: 840px; /* Increased from 600px */
 }
 
 .hero-text h2 {
@@ -27,7 +27,7 @@ author_profile: false
 }
 
 .hero-text p {
-  font-size: 1.25rem; /* Increased font size */
+  font-size: 1.1rem; /* Increased font size */
   line-height: 1.9;
   margin-bottom: 1.25rem;
   color: #444;
