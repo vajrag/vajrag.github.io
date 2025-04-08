@@ -5,7 +5,7 @@ title: "Hey, I'm Vajra 👋"
 author_profile: true
 ---
 
-I'm an AI Researcher on a mission to make intelligent systems more **human-aligned, adaptive, and grounded in the real world**.
+I'm an AI Researcher on a mission to make intelligent systems more *human-aligned, adaptive, and grounded in the real world*.
 
 Right now, I work at [Ola Krutrim](https://www.olakrutrim.com/), where I explore how reinforcement learning and deep learning can enable smarter, safer, and more autonomous machines. My core focus is making AI *do less guessing and more understanding*.
 
