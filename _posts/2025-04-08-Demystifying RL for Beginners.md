@@ -1,10 +1,11 @@
 ---
-title: "Demystifying RL for beginners"
+title: "Demystifying RL for Beginners"
 date: 2025-04-08
 layout: single
-author_profile: true
+author_profile: false
 read_time: true
 tags: [RL, Deep Learning, Notes]
+css: "/assets/css/custom.css"
 ---
 <!-- 
 Reinforcement learning is not just about rewards — it’s about decision-making under uncertainty, learning from sparse signals and navigating in complex environments.  -->
