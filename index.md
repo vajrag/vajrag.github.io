@@ -16,10 +16,7 @@ Alongside my research, I enjoy mentoring students at Skillslash, guiding them th
 
 You can find new updates [here](./blog/)
 
-# <u>Projects</u>
-Coming Soon!
-
-# <u>My Study Notes</u>
+# <u>My Notes</u>
 
 [Deep Learning](/deep-learning)
 
