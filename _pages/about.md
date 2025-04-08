@@ -1,11 +1,9 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
-author_profile: false
+title: "Hey, I'm Vajra 👋"
+author_profile: True
 ---
-
-## Hey, I'm Vajra 👋
  
  I'm an AI Researcher on a mission to make intelligent systems more **human-aligned, adaptive, and grounded in the real world**.
  
@@ -24,4 +22,4 @@ author_profile: false
  ## Skills 
  - Python, PyTorch, Tensorflow, ROS2
  - Reinforcement Learning, Deep Learning, Machine Learning
- - Reinforcement Learning, Deep Learning, Machine Learning -->
+ - Reinforcement Learning, Deep Learning, Machine Learning
