@@ -55,6 +55,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vajrag"
+    - label: "location"
+      icon: ""fa-solid fa-location-dot""
+      
   
 
 footer:
