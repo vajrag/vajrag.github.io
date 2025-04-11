@@ -1,13 +1,9 @@
 ---
-layout: splash
-classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/bg/bg1.jpg # (You can change this)
+layout: home
+author_profile: true
+---
 
-excerpt: >
-Hey, I'm Vajra 👋
+**Hey, I'm Vajra** 👋
 
 I'm an AI Researcher on a mission to make intelligent systems more *human-aligned, adaptive, and grounded in the real world*.
 
