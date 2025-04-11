@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /about/
 title: "Hey, I'm Vajra 👋"
 author_profile: true
@@ -23,8 +24,7 @@ Alongside my research, I enjoy mentoring students at Skillslash, guiding them th
  - Research Engineer at Ola Krutrim, Bengaluru, India
     
  - Research Engineer at Ola Electric, Bengaluru, India
- 
+
  - Research Assistant at Fraunhofer IPA, Stuttgart, Germany
-<!-- ## Skills 
-- Python, PyTorch, TensorFlow, ROS2  
-- Reinforcement Learning, Deep Learning, Machine Learning -->
+
+
