@@ -17,7 +17,9 @@ feature_row:
     title: "Image Generation"
     url: /genai/img_gen/
     btn_label : "Read More"
-    # excerpt: "One of the most popular policy gradient methods for 
+    excerpt: "Explorations in text-to-image generation and diffusion models."
+
+
 ---
 
 
