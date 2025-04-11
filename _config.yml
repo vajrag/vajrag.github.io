@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Vajra Ganesh"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "AI Researcher| RL | ML | Gen AI"
+  bio    : "AI Researcher-RL, ML, Gen AI"
 
   links:
     - label: "LinkedIn"
