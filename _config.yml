@@ -49,8 +49,8 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/vajra-ganeshkumar/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "X"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://x.com/vajraganesh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -60,7 +60,7 @@ author:
 footer:
   links:
     - label: "X"
-      icon: "fab fa-fw fa-twitter-square" 
+      icon: "fa-brands fa-square-x-twitter" 
       url: "https://x.com/vajraganesh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
