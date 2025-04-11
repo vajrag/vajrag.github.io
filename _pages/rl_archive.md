@@ -17,8 +17,8 @@ feature_row:
     url: /rl/fundamentals/
     # excerpt: "One of the most popular policy gradient methods for training RL agents."
   - image_path: /assets/images/bg/bg3.jpg
-    alt: "Q-Learning"
-    title: "Q-Learning"
+    title: "Markov Decision Process"
+    alt: "MDP"
     url: /rl/mdp/
     # excerpt: "A classic value-based method and a foundational piece of modern RL."
   - image_path: /assets/images/bg/bg4.jpg
@@ -26,7 +26,7 @@ feature_row:
     title: "Q-Learning"
     url: /rl/q_learning/
     # excerpt: "Explore coordination, competition, and communication in multi-agent settings."
-  - image_path: /assets/images/bg/bg5.jpg 
+  - image_path: /assets/images/bg/bg1.jpg 
     alt: "PPO"
     title: "Proximal Policy Optimization"
     url: /rl/ppo/
