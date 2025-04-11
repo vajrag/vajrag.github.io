@@ -1,7 +1,8 @@
 ---
 title: "Q-Learning"
 layout: single
-permalink: /rl/qlearning/
+classes: wide
+permalink: /rl/q_learning/
 collection: rl
 ---
 
