@@ -16,17 +16,17 @@ feature_row:
   - image_path: /assets/images/bg/bg2.jpg
     alt: "PPO"
     title: "Proximal Policy Optimization"
-    url: /rl/ppo/
+    url: /_rl/ppo/
     excerpt: "One of the most popular policy gradient methods for training RL agents."
   - image_path: /assets/images/bg/bg3.jpg
     alt: "Q-Learning"
     title: "Q-Learning"
-    url: /rl/q_learning/
+    url: /_rl/q_learning/
     excerpt: "A classic value-based method and a foundational piece of modern RL."
   - image_path: /assets/images/bg/bg4.jpg
     alt: "Multi-Agent RL"
     title: "Multi-Agent RL"
-    url: /rl/first_post/
+    url: /_rl/first_post/
     excerpt: "Explore coordination, competition, and communication in multi-agent settings."
 ---
 
