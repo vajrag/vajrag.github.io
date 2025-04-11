@@ -17,6 +17,7 @@ Alongside my research, I enjoy mentoring students at Skillslash, guiding them th
 
 ## Qualifications 
 - B.E. in Industrial Engineering and Management, BMSCE  
+
 - M.S in Autonomous Systems, Hochschule Bonn-Rhein-Sieg, Germany
 
 
