@@ -1,6 +1,5 @@
 ---
 layout: splash
-author_profile: true
 classes: wide
 header:
   overlay_color: "#000"
