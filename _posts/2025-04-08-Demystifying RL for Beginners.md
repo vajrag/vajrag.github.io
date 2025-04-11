@@ -1,5 +1,5 @@
 ---
-title: "Demystifying RL for Beginners"
+title: "Demystifying RL"
 date: 2025-04-08
 layout: single
 author_profile: true

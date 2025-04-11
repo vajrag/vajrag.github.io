@@ -1,6 +1,8 @@
 ---
 title: "Posts"
-layout: single
+layout: posts
 permalink: /posts/
 author_profile: true
 ---
+
+You can browse all my recent posts here 💫
