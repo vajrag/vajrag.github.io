@@ -2,6 +2,7 @@
 title: "Reinforcement Learning"
 layout: splash
 permalink: /rl_archive/
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -26,7 +27,7 @@ feature_row:
     title: "Q-Learning"
     url: /rl/q_learning/
     # excerpt: "Explore coordination, competition, and communication in multi-agent settings."
-  - image_path: /assets/images/bg/bg1.jpg 
+  - image_path: /assets/images/bg/bg1ce.jpg 
     alt: "PPO"
     title: "Proximal Policy Optimization"
     url: /rl/ppo/
