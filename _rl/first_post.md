@@ -1,5 +1,5 @@
 ---
-title: "Demystifying RL"
+title: "1️⃣ Demystifying RL"
 layout: single
 classes: wide
 author_profile: true
