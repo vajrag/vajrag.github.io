@@ -107,3 +107,8 @@ collections:
   rl:
     output: true
     permalink: /:collection/:name/
+
+collections:
+  genai:
+    output: true
+    permalink: /:collection/:name/
