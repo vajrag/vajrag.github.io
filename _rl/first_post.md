@@ -6,7 +6,7 @@ author_profile: true
 read_time: true
 ---
 
-## Reinforcement Learning 
+### 🍀 Reinforcement Learning 
 Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. Instead of being told what to do, the agent tries things out, sees what works, and improves over time.
 
 *Analogy*: Think of training a puppy. We don't explain the rules instead we reward the good behavior and ignore of gently discourage the bad ones. Over time, the puppy learns. 
@@ -15,7 +15,7 @@ Reinforcement Learning (RL) is a type of machine learning where an agent learns 
 
 At the heart of reinforcement learning lies a simple loop — a continuous interaction between an agent and its environment, with the goal of learning from experience. The diagram below captures the core elements involved:
 
-![Core Components of RL](/assets/images/RL/core_components_rl.png)
+![Core Components of RL](/assets/images/RL/core_components_rl_2.jpeg)
 
 - 🧍 **Agent** <br>
 The decision-maker. It could be a robot, a game character, or even a stock trading bot. The agent's job is to take actions based on what it observes.
