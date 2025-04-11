@@ -14,14 +14,21 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/bg/bg1.jpg
     title: "Reinforcement Learning"
-    excerpt: "Explorations and experiments in agents, environments, and reward-driven learning."
+    excerpt: "Exploring the reward-driven learning paradigm"
     url: /rl_archive/
+    classes: wide
+    btn_label : "Read More"
+
+ - image_path: /assets/images/bg/bg5.jpg
+    title: "Gen AI"
+    excerpt: "Where machines become creators. My learnings in this space"
+    url: /gen_ai_archive/
     classes: wide
     btn_label : "Read More"
 
   - image_path: /assets/images/bg/bg3.jpg
     title: "Posts"
-    excerpt: "Notes and thoughts on what I’m learning across ML and beyond."
+    excerpt: "Notes & thoughts on what I’m learning across ML and beyond."
     url: /posts/
     classes: wide
     btn_label : "Read More"
