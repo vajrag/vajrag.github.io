@@ -1,8 +1,5 @@
 ---
-layout: splash
-classes:
-  - landing
-  - dark-theme
+layout: single
 permalink: /about/
 title: "Hey, I'm Vajra 👋"
 author_profile: true
