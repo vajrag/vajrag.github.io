@@ -7,7 +7,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/bg/home-header.jpg
+  overlay_image: /assets/images/bg/bg4.jpg
 excerpt: >
   I'm an AI Researcher on a mission to make intelligent systems more human-aligned, adaptive, and grounded in the real world. I write about what I learn — ideas, experiments, and explorations across RL, ML, and Gen AI.
 
@@ -16,7 +16,7 @@ feature_row:
     title: "Reinforcement Learning"
     excerpt: "Explorations and experiments in agents, environments, and reward-driven learning."
     url: /rl_archive/
-  - image_path: /assets/images/bg/bg2.jpg
+  - image_path: /assets/images/bg/bg3.jpg
     title: "Posts"
     excerpt: "Notes and thoughts on what I’m learning across ML and beyond."
     url: /posts/
