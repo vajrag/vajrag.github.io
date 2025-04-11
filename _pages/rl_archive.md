@@ -10,25 +10,24 @@ header:
 #     - label: "Explore RL posts"
 #       url: "/rl/"
 excerpt: >
-🍀 Reinforcement Learning (RL) is a core area of my research and exploration. 
-This section is dedicated to sharing key insights, experiments, and learnings from my work in RL.
+  Reinforcement Learning (RL) is a core area of my research and exploration. This section is dedicated to sharing key insights, experiments, and learnings from my work in RL
 
 feature_row:
   - image_path: /assets/images/bg/bg2.jpg
     alt: "PPO"
     title: "Proximal Policy Optimization"
     url: /rl/ppo/
-
+    excerpt: "One of the most popular policy gradient methods for training RL agents."
   - image_path: /assets/images/bg/bg3.jpg
     alt: "Q-Learning"
     title: "Q-Learning"
     url: /rl/q_learning/
-
+    excerpt: "A classic value-based method and a foundational piece of modern RL."
   - image_path: /assets/images/bg/bg4.jpg
-    alt: "Demystifying RL"
-    title: "Demystifying RL"
+    alt: "Multi-Agent RL"
+    title: "Multi-Agent RL"
     url: /rl/first_post/
-   
+    excerpt: "Explore coordination, competition, and communication in multi-agent settings."
 ---
 
 
