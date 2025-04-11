@@ -14,10 +14,17 @@ My education journey started at BMS College of Engineering in Bengaluru, where I
 Alongside my research, I enjoy mentoring students at Skillslash, guiding them through the complexities of AI and Machine Learning while fostering their growth through hands-on learning and real-world applications.
 
 
-## Education 
+## Qualifications 
 - B.E. in Industrial Engineering and Management, BMSCE  
 - M.S in Autonomous Systems, Hochschule Bonn-Rhein-Sieg, Germany
 
+
+## Experience 
+ - Research Engineer at Ola Krutrim, Bengaluru, India
+    
+ - Research Engineer at Ola Electric, Bengaluru, India
+ 
+ - Research Assistant at Fraunhofer IPA, Stuttgart, Germany
 <!-- ## Skills 
 - Python, PyTorch, TensorFlow, ROS2  
 - Reinforcement Learning, Deep Learning, Machine Learning -->
