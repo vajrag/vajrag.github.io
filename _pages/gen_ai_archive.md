@@ -18,10 +18,6 @@ feature_row:
     url: /genai/img_gen/
     btn_label : "Read More"
     excerpt: "Explorations in text-to-image generation and diffusion models."
-
-
 ---
-
-
 
 {% include feature_row id="feature_row" %}
