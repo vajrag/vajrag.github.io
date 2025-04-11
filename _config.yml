@@ -45,6 +45,7 @@ author:
   name   : "Vajra Ganesh"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "AI Researcher"
+
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
@@ -68,6 +69,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vajrag"
+    - label: "Bengaluru, India"
+      icon: "fa-solid fa-map-pin"
 
 
 defaults:
