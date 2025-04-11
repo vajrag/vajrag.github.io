@@ -11,17 +11,13 @@ header:
 excerpt: >
     Notes and learnings from my exploration of Generative AI — text, images, and everything in between.
 
-eature_row:
+feature_row:
   - image_path: /assets/images/bg/bg6.jpg
     alt: "Image Gen"
     title: "Image Generation"
     url: /genai/img_gen/
     btn_label : "Read More"
-    # excerpt: "One of the most popular policy gradient methods for training RL agents."
-
-    # excerpt: "A classic value-based method and a foundational piece of modern RL."
-  
-    # excerpt: "Explore coordination, competition, and communication in multi-agent settings."
+    # excerpt: "One of the most popular policy gradient methods for 
 ---
 
 
