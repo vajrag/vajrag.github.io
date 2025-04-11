@@ -16,10 +16,15 @@ feature_row:
     title: "Reinforcement Learning"
     excerpt: "Explorations and experiments in agents, environments, and reward-driven learning."
     url: /rl_archive/
+    classes: wide
+    btn_label : "Read More"
+
   - image_path: /assets/images/bg/bg3.jpg
     title: "Posts"
     excerpt: "Notes and thoughts on what I’m learning across ML and beyond."
     url: /posts/
+    classes: wide
+    btn_label : "Read More"
 ---
 
 {% include feature_row %}
