@@ -10,7 +10,7 @@ header:
 #     - label: "Explore RL posts"
 #       url: "/rl/"
 excerpt: >
-🍀 Reinforcement Learning (RL) is a core area of my research and exploration. <br>
+🍀 Reinforcement Learning (RL) is a core area of my research and exploration. 
 This section is dedicated to sharing key insights, experiments, and learnings from my work in RL.
 
 feature_row:
@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/bg/bg3.jpg
     alt: "Q-Learning"
     title: "Q-Learning"
-    url: /rl/qlearning/
+    url: /rl/q_learning/
 
   - image_path: /assets/images/bg/bg4.jpg
     alt: "Demystifying RL"
