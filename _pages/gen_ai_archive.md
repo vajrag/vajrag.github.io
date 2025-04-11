@@ -1,7 +1,7 @@
 ---
 title: "Generative AI"
 layout: splash
-permalink: /genai/
+permalink: /gen_ai_archive/
 classes: wide
 header:
   overlay_color: "#000"
