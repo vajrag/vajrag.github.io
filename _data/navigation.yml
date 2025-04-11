@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Reinforcement Learning"
-    url: /rl_archive/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Reinforcement Learning"
+  #   url: /rl_archive/
