@@ -2,7 +2,7 @@
 title: "1️⃣ Demystifying RL"
 layout: single
 classes: wide
-permalink: /rl/first_post/
+permalink: /rl/fundamentals/
 author_profile: true
 read_time: true
 ---
