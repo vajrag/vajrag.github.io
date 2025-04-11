@@ -19,7 +19,7 @@ feature_row:
     classes: wide
     btn_label : "Read More"
 
- - image_path: /assets/images/bg/bg5.jpg
+  - image_path: /assets/images/bg/bg5.jpg
     title: "Gen AI"
     excerpt: "Where machines become creators. My learnings in this space"
     url: /gen_ai_archive/

@@ -13,7 +13,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/bg/bg6.jpg
-    alt: "Image Gen"
+    alt: "Text-to-Image generation"
     title: "Image Generation"
     url: /genai/img_gen/
     btn_label : "Read More"
