@@ -55,8 +55,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vajrag"
-    - label: "location"
-      icon: ""fa-solid fa-location-dot""
+    - label: "Bengaluru, India"
+      icon: "fas fa-map-marker-alt"
       
   
 
