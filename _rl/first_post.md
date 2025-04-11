@@ -1,13 +1,10 @@
 ---
-title: "Demystifying RL for Beginners"
-date: 2025-04-08
+title: "Demystifying RL"
 layout: single
 classes: wide
 author_profile: true
 read_time: true
 ---
-<!-- 
-Reinforcement learning is not just about rewards — it’s about decision-making under uncertainty, learning from sparse signals and navigating in complex environments.  -->
 
 ## Reinforcement Learning 
 Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. Instead of being told what to do, the agent tries things out, sees what works, and improves over time.
