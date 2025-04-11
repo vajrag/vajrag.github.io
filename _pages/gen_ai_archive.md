@@ -18,6 +18,13 @@ feature_row:
     url: /genai/img_gen/
     btn_label : "Read More"
     excerpt: "Explorations in text-to-image generation and diffusion models."
+
+  - image_path: /assets/images/bg/bg7.jpg
+    alt: "Diffusion Models"
+    title: "Image Generation"
+    url: /genai/diff_models/
+    btn_label : "Read More"
+    excerpt: "How AI Turns Noise Into Art"
 ---
 
 {% include feature_row id="feature_row" %}
