@@ -87,6 +87,8 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
+
 
   # _pages
   - scope:
@@ -95,6 +97,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      mathjax: true
 
 category_archive:
   type: liquid

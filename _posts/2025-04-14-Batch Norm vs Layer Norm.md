@@ -61,17 +61,18 @@ Let's say we have a 3-layer feedforward neural network:
 
 Now assume we initialize weights randomly and start training. Here is what can happen:
 
-1. Early Training
+1. <ins>Early Training</ins>
     - Input data has a nice distribution (e.g., say Mnist Digits has pixel values scaled between 0 an 1)
     - Layer 1 processes it -> produces some activation values (let's say with a mean ~0.5 and std ~0.2)
     - Layer 2 receives these activations and learns accordingly. 
 
 
-2. A Few Epochs Later
+2. <ins>A Few Epochs Later</ins>
     - Layer 1's weights have now updated - it now outputs activations with mean ~2.0 and std ~1.5
     - Layer 2 suddenly receives a very different distribution than what it originally trained on
     - Its weights are no longer optimal for this new input - it must now adjust again
 
+![Internal Covariate Shift](/assets/images/posts/internal_covariate_shift.png)
 
 This shift in activation distribution from Layer 1 -> Layer 2 is the Internal Covariance Shift. If this is happening it can lead to 
 - Graidents exploding or vanishing
@@ -88,6 +89,7 @@ In this section, we will explore some of the main techniques for normalizing act
 Batch Normalization was proposed in 2015. It works by normalizing across the batch dimension. I.e, for each feature/channel across all samples in the batch. 
 
 Let's visualize 🔍
+
 
 
 
