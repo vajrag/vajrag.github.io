@@ -6,6 +6,7 @@ classes: wide
 author_profile: true
 read_time: true
 tags: [Deep Learning, Notes]
+math: true
 ---
 
 Deep neural networks are difficult to train. As they grow deeper, they become increasingly prone to issues like `exploding gradients`, `internal covariate shift`, and `vanishing gradients`. One powerful family of techniques that helps tame this complexity is **Activation Normalization**.
@@ -24,7 +25,7 @@ Activation normalization refers to the process of scaling and shifting the outpu
 Formally, given an input x, we normalize it using:
 
 $$
-\hat x = \frac{x - \mu}{\sigma + \epsilon}
+\hat{x} = \frac{x - \mu}{\sigma + \epsilon}
 $$
 
 where:
