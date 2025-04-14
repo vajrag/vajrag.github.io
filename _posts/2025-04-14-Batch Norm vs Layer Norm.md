@@ -2,6 +2,7 @@
 title: "Understanding Activation Normalization in Deep Learning"
 date: 2025-04-14
 layout: single
+classes: wide
 author_profile: true
 read_time: true
 tags: [Deep Learning, Notes]
@@ -22,7 +23,7 @@ Activation normalization refers to the process of scaling and shifting the outpu
 
 Formally, given an input x, we normalize it using:
 
-   $$ \hat x = \frac{x- \mu}{\sigma + \epsilon} $$
+$$\hat x = \frac{x- \mu}{\sigma + \epsilon}$$
 
 where:
 - $\mu$ is the mean
@@ -31,7 +32,7 @@ where:
 
 This is usually followed by learnable affine parameters $\gamma$ (scale) and $\beta$ (shift):
 
-$$\text{Normalized Output} = \gamma \cdot \hat x + \beta $$
+$$\text{Normalized Output} = \gamma \cdot \hat x + \beta$$
 
 ---
 
@@ -47,9 +48,9 @@ Refers to the change in the distribution of activations (inputs to each hidden l
 
 Let's say we have a 3-layer feedforward neural network:
 
-> Layer1: Input -> Hidden 1 -> Activation function 1
-> Layer2: Activation function 1 -> Hidden layer 2 -> Activation function 2
-> Layer3: Activation function 2 -> Output
+> Layer1: Input -> Hidden 1 -> Activation function 1 <br>
+> Layer2: Activation function 1 -> Hidden layer 2 -> Activation function 2 <br>
+> Layer3: Activation function 2 -> Output <br>
 
 
 Now assume we initialize weights randomly and start training. Here is what can happen:
