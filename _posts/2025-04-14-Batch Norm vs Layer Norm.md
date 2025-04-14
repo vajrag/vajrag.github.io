@@ -23,8 +23,9 @@ Activation normalization refers to the process of scaling and shifting the outpu
 
 Formally, given an input x, we normalize it using:
 
-$$\hat x = \frac{x- \mu}{\sigma + \epsilon}$$
-
+\[
+    \hat x = \frac{x- \mu}{\sigma + \epsilon}
+\]
 where:
 - $\mu$ is the mean
 - $\sigma$ is the standard deviation
@@ -49,7 +50,9 @@ Refers to the change in the distribution of activations (inputs to each hidden l
 Let's say we have a 3-layer feedforward neural network:
 
 > Layer1: Input -> Hidden 1 -> Activation function 1 <br>
+
 > Layer2: Activation function 1 -> Hidden layer 2 -> Activation function 2 <br>
+
 > Layer3: Activation function 2 -> Output <br>
 
 
