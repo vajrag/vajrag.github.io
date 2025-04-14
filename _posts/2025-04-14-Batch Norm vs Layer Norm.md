@@ -23,14 +23,12 @@ Activation normalization refers to the process of scaling and shifting the outpu
 
 Formally, given an input x, we normalize it using:
 
-\\[
-
+$$
 \hat x = \frac{x - \mu}{\sigma + \epsilon}
-
-]\\
+$$
 
 where:
-- $\mu$ is the mean
+-  \(\mu \) is the mean
 - $\sigma$ is the standard deviation
 - $\epsilon$  is a small constant for numerical stability
 
