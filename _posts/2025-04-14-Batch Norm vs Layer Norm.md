@@ -23,9 +23,10 @@ Activation normalization refers to the process of scaling and shifting the outpu
 
 Formally, given an input x, we normalize it using:
 
-\[
-    \hat x = \frac{x- \mu}{\sigma + \epsilon}
-\]
+$$
+\hat x = \frac{x - \mu}{\sigma + \epsilon}
+$$
+
 where:
 - $\mu$ is the mean
 - $\sigma$ is the standard deviation
@@ -33,7 +34,9 @@ where:
 
 This is usually followed by learnable affine parameters $\gamma$ (scale) and $\beta$ (shift):
 
-$$\text{Normalized Output} = \gamma \cdot \hat x + \beta$$
+$$
+\text{Normalized Output} = \gamma \cdot \hat x + \beta
+$$
 
 ---
 
