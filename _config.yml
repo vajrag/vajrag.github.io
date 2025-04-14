@@ -7,6 +7,7 @@ twitter_username: vajraganesh
 github_username: vajrag
 minimal_mistakes_skin: air
 search: true
+mathjax: true
 
 # Build settings
 markdown: kramdown
@@ -87,7 +88,7 @@ defaults:
       comments: true
       share: true
       related: true
-      mathjax: true
+      math: true
 
 
   # _pages
@@ -97,7 +98,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      mathjax: true
+      math: true
 
 category_archive:
   type: liquid

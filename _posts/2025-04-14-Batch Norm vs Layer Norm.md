@@ -8,7 +8,7 @@ read_time: true
 tags: [Deep Learning, Notes]
 ---
 
-Deep neural networks are difficult to train. As they grow deeper, they become increasingly prone to issues like `exploding gradients`, `internal covariant shift`, and `vanishing gradients`. One powerful family of techniques that helps tame this complexity is **Activation Normalization**.
+Deep neural networks are difficult to train. As they grow deeper, they become increasingly prone to issues like `exploding gradients`, `internal covariate shift`, and `vanishing gradients`. One powerful family of techniques that helps tame this complexity is **Activation Normalization**.
 
 In this post, we will break down:
 - What is normalization of activation functions?
