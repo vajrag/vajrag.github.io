@@ -23,9 +23,11 @@ Activation normalization refers to the process of scaling and shifting the outpu
 
 Formally, given an input x, we normalize it using:
 
-$$
+\\[
+
 \hat x = \frac{x - \mu}{\sigma + \epsilon}
-$$
+
+]\\
 
 where:
 - $\mu$ is the mean
@@ -72,7 +74,7 @@ Now assume we initialize weights randomly and start training. Here is what can h
     - Layer 2 suddenly receives a very different distribution than what it originally trained on
     - Its weights are no longer optimal for this new input - it must now adjust again
 
-![Internal Covariate Shift](/assets/images/posts/internal_covariate_shift.png)
+    ![Internal Covariate Shift](/assets/images/posts/internal_covariate_shift.png)
 
 This shift in activation distribution from Layer 1 -> Layer 2 is the Internal Covariance Shift. If this is happening it can lead to 
 - Graidents exploding or vanishing
