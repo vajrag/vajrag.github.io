@@ -26,7 +26,7 @@ feature_row:
     classes: wide
     btn_label : "Read More"
 
-  - image_path: /assets/images/bg/bg3.jpg
+  - image_path: /assets/images/bg/bg9.jpg
     title: "Posts"
     excerpt: "Notes & thoughts on what I’m learning across ML and beyond."
     url: /posts/

@@ -20,8 +20,8 @@ feature_row:
     excerpt: "Explorations in text-to-image generation and diffusion models."
 
   - image_path: /assets/images/bg/bg7.jpg
-    alt: "Diffusion Models"
-    title: "Image Generation"
+    alt: "Diff Models"
+    title: "Diffusion Models"
     url: /genai/diff_models/
     btn_label : "Read More"
     excerpt: "How AI Turns Noise Into Art"
